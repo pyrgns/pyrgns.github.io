@@ -1,2 +1,13 @@
-title: "Paul Yuergens"
+title: "My Site"
 remote_theme: "mmistakes/minimal-mistakes"
+
+# Only required plugins (no feed)
+plugins: []
+
+# Optional: default page layout
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "single"
