@@ -1,3 +1,2 @@
 # pyrgns.github.io
-Paul Yuergens Public Site
-did this deploy?
+Paul Yuergens Public Site: did this deploy?
