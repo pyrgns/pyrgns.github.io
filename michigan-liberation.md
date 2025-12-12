@@ -1,7 +1,8 @@
 ---
-layout: single
-title: "Michigan Liberation"
-permalink: /michigan-liberation/
+layout: default
+title: Paul Yuergens
 ---
 
-This is the Michigan Liberation project page.
+# Hello
+
+Writing sample
