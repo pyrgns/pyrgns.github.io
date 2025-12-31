@@ -9,5 +9,6 @@ I researched and drafted a policy memo for Michigan Liberation highlighting comm
 
 **Recommended focus:** Executive Summary (p. 1), Option 2 – WCCMH Millage (pp. 3-4), and Recommendation (pp. 4–5)
 
-[Behavioral Health Diversion in Michigan]({{ '/assets/pdfs/michigan-liberation-memo.pdf' | relative_url }}) *(PDF 200k)*
+[Behavioral Health Diversion in Michigan]({{ '/assets/pdfs/michigan-liberation-memo.pdf' | relative_url }}){:target="_blank"} *(PDF 200k)*
+
 
