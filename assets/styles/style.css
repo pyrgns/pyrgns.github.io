@@ -21,3 +21,9 @@ body {
 .nav-link {
   font-size: 18px;
 }
+
+.navbar-text {
+  font-size: 18px;
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+}
