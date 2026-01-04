@@ -1,7 +1,7 @@
 /* Import Merriweather from Google Fonts */
 @import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&display=swap');
 
-/* Set as body font */
+/* Base styles */
 body {
   font-family: 'Merriweather', serif;
   font-size: 20px;
@@ -13,6 +13,7 @@ body {
   max-width: 720px;
 }
 
+/* Navigation */
 .navbar-brand {
   font-size: 19px;
   font-variant: small-caps;
@@ -22,7 +23,12 @@ body {
   font-size: 18px;
 }
 
+/* Mobile styles */
 @media (max-width: 991px) {
+  .navbar-brand {
+    font-size: 22px;
+  }
+  
   .navbar-collapse {
     text-align: center;
   }
@@ -30,11 +36,6 @@ body {
   .navbar-nav {
     display: inline-block;
     float: none;
-  }
-}
-
-@media (max-width: 991px) {
-  .navbar-brand {
-    font-size: 22px;
+    margin-left: 0 !important;
   }
 }
