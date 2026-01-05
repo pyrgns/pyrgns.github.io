@@ -33,10 +33,4 @@ body {
     text-align: center;
   }
   
-  .navbar-nav {
-    margin: 0 auto;     /* <-- key line */
-    float: none;
-    display: inline-flex;
-    flex-direction: column;
-  }
 }
