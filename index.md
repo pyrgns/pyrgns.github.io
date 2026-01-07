@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Paul Yuergens
+title: Paul Yuergeens
 ---
 
 
