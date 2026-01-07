@@ -29,10 +29,7 @@ body {
     font-size: 24px;
   }
   
-  .navbar-collapse {
-    text-align: center;
+  .navbar-nav {
+    padding-left: 1rem;
   }
-
-  .navbar-nav { display: inline-block; float: none; margin-left: 0 !important; }
-  
 }
