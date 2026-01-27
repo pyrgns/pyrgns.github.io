@@ -11,3 +11,7 @@ h2 {
 h4, h4 strong {
   font-weight: 400;
 }
+
+li, p, .csl-entry {
+  font-weight: 300;
+}
