@@ -15,3 +15,9 @@ h4, h4 strong {
 li, p, .csl-entry {
   font-weight: 300;
 }
+
+div.shinylive-wrapper {
+  box-shadow: none;
+  border: none;
+  background-color: transparent;
+}
